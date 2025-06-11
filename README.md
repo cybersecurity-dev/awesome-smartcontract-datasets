@@ -1,13 +1,13 @@
 # Awesome [Smart Contract](https://en.wikipedia.org/wiki/Smart_contract) [Datasets](https://en.wikipedia.org/wiki/Data_set) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Vulnerability based Dataset
-- 
+## Vulnerability-based Dataset
+- [ScrawlD](https://github.com/sujeetc/ScrawlD) - A Dataset of Real World Ethereum Smart Contracts Labelled with Vulnerabilities
 - 
 - 
 - 
 - 
 
-## Malicious based Dataset
+## Malware-based Dataset
 - 
 - 
 - 
