@@ -8,7 +8,7 @@
 - 
 
 ## Malware-based Dataset
-- 
+- [Forta Network](https://huggingface.co/datasets/forta/malicious-smart-contract-dataset) - This dataset includes malicious and benign smart contracts deployed on Ethereum.
 - 
 - 
 - 
