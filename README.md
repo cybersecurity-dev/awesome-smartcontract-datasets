@@ -40,6 +40,7 @@ A malicious or dodgy smart contract is a self-executing piece of code on a block
 * [awesome-malware-traffic-analysis](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis)
 * [awesome-malware-traffic-analysis-scientific-research](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis-scientific-research)
 * [awesome-metamorphic-malware](https://github.com/cybersecurity-dev/awesome-metamorphic-malware)
+* [awesome-online-malware-analysis-tools](https://github.com/cybersecurity-dev/awesome-online-malware-analysis-tools)
 * [awesome-pcap-feature-extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
 * [awesome-pe-feature-extractor](https://github.com/cybersecurity-dev/awesome-pe-feature-extractor)
 * [awesome-polymorphic-malware](https://github.com/cybersecurity-dev/awesome-polymorphic-malware)
