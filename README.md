@@ -1,5 +1,14 @@
 # Awesome [SC](https://en.wikipedia.org/wiki/Smart_contract) (_Smart Contract_) [Datasets](https://en.wikipedia.org/wiki/Data_set) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## 📖 Contents
+- [Vulnerability-based Dataset](#vulnerability-based-dataset)
+- [Malicious-based Dataset](#malicious-based-dataset)
+- [Security Analysis Tool](#security-analysis-tool)
+- [Crawler](#crawler)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+ 
 ## Vulnerability-based Dataset
 A vulnerable smart contract contains flaws or errors in its code or design that can be exploited by malicious actors, leading to unintended behavior, financial losses, or unauthorized access. Unlike malicious smart contracts, which are designed with ill intent from the start, vulnerable contracts typically arise from programming mistakes, oversights in security practices, or a lack of thorough testing. Common vulnerabilities include reentrancy attacks, integer overflows/underflows, access control issues, and susceptible timestamp dependencies. Once deployed on an immutable blockchain, these flaws become permanent, making it critical for developers to rigorously audit and test contracts before deployment to mitigate potential risks and ensure the security of user funds and data.
 - [ScrawlD](https://github.com/sujeetc/ScrawlD) - A Dataset of Real World Ethereum Smart Contracts Labelled with Vulnerabilities
