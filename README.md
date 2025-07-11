@@ -28,6 +28,7 @@ A malicious or dodgy smart contract is a self-executing piece of code on a block
 
 ## Online Blockchain Networks
 - [Bscscan](https://bscscan.com/) - BscScan is a Block Explorer and Analytics Platform for BNB Smart Chain.
+- [Blockscout](https://www.blockscout.com/) - Multichain block explorer.
 - [Etherscan](https://etherscan.io/) - Etherscan is the leading Web3 Blockchain Explorer Platform for Search, API and Analytics.
 - [Fuse](https://explorer.fuse.io/) - Blockchain explorer for Ethereum Networks.
 - [Snowtrace Multichain Explorer](https://snowtrace.io/) - Snowtrace is a Block Explorer and Analytics Platform for avalanche.
