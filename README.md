@@ -26,7 +26,11 @@ A malicious or dodgy smart contract is a self-executing piece of code on a block
 - 
 - 
 
-## Security Analysis Tool
+## Online Blockchain Networks
+- [Etherscan](https://etherscan.io/) - Etherscan is the leading Web3 Blockchain Explorer Platform for Search, API and Analytics
+- []()
+  
+### Security Analysis Tool
 - [Mythril](https://github.com/ConsenSysDiligence/mythril) - Mythril is a symbolic-execution-based security analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
 - [Slither](https://github.com/crytic/slither) - Slither is a Solidity & Vyper static analysis framework written in Python3. It runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses. Slither enables developers to find vulnerabilities, enhance their code comprehension, and quickly prototype custom analyses.
 - [SmartCheck](https://github.com/smartdec/smartcheck) - SmartCheck – a static analysis tool that detects vulnerabilities and bugs in Solidity programs (Ethereum-based smart contracts).
@@ -34,7 +38,7 @@ A malicious or dodgy smart contract is a self-executing piece of code on a block
 - [Oyente](https://github.com/enzymefinance/oyente) (_This project is not maintained anymore_) - An Analysis Tool for Smart Contracts
 
 
-## Crawler
+### Crawler
 - [ChainWalker](https://github.com/0xsha/ChainWalker) - ChainWalker is a smart contract scraper which uses RCP/IPC calls to extract the information. A small tool that can help us find contracts, extract the EVM code, and disassemble the opcodes. It allows us to select specific blocks or even specific contract balances.
 - 
 - 
