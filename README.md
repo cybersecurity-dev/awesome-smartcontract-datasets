@@ -1,32 +1,27 @@
 # Awesome [SC](https://en.wikipedia.org/wiki/Smart_contract) (_Smart Contract_) [Datasets](https://en.wikipedia.org/wiki/Data_set) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## 📖 Contents
-- [Vulnerability-based Dataset](#vulnerability-based-dataset)
 - [Malicious-based Dataset](#malicious-based-dataset)
+- [Vulnerability-based Dataset](#vulnerability-based-dataset)
+- [Online Blockchain Networks](#online-blockchain-networks)
 - [Security Analysis Tool](#security-analysis-tool)
 - [Crawler](#crawler)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
  
-## Vulnerability-based Dataset
-A vulnerable smart contract contains flaws or errors in its code or design that can be exploited by malicious actors, leading to unintended behavior, financial losses, or unauthorized access. Unlike malicious smart contracts, which are designed with ill intent from the start, vulnerable contracts typically arise from programming mistakes, oversights in security practices, or a lack of thorough testing. Common vulnerabilities include reentrancy attacks, integer overflows/underflows, access control issues, and susceptible timestamp dependencies. Once deployed on an immutable blockchain, these flaws become permanent, making it critical for developers to rigorously audit and test contracts before deployment to mitigate potential risks and ensure the security of user funds and data.
-- [ScrawlD](https://github.com/sujeetc/ScrawlD) - A Dataset of Real World Ethereum Smart Contracts Labelled with Vulnerabilities
-- 
-- 
-- 
-- 
 
 ## Malicious-based Dataset
 A malicious or dodgy smart contract is a self-executing piece of code on a blockchain that is designed to exploit users, typically by gaining unauthorized access to and spending their digital tokens. These contracts often appear legitimate but contain hidden functionalities that, once interacted with, can lead to the loss of your assets. It's crucial to understand that such contracts generally only endanger the specific tokens you've granted them permission to access, not your entire cryptocurrency portfolio or other unrelated digital assets. If you suspect interaction with a malicious smart contract, immediate action, such as revoking allowances granted to it, is vital to protect your funds.
 - [Forta Network](https://huggingface.co/datasets/forta/malicious-smart-contract-dataset) - This dataset includes malicious and benign smart contracts deployed on Ethereum.
-- 
-- 
-- 
-- 
-- 
 
-## Online Blockchain Networks
+
+## Vulnerability-based Dataset
+A vulnerable smart contract contains flaws or errors in its code or design that can be exploited by malicious actors, leading to unintended behavior, financial losses, or unauthorized access. Unlike malicious smart contracts, which are designed with ill intent from the start, vulnerable contracts typically arise from programming mistakes, oversights in security practices, or a lack of thorough testing. Common vulnerabilities include reentrancy attacks, integer overflows/underflows, access control issues, and susceptible timestamp dependencies. Once deployed on an immutable blockchain, these flaws become permanent, making it critical for developers to rigorously audit and test contracts before deployment to mitigate potential risks and ensure the security of user funds and data.
+- [ScrawlD](https://github.com/sujeetc/ScrawlD) - A Dataset of Real World Ethereum Smart Contracts Labelled with Vulnerabilities
+
+ 
+### Online Blockchain Networks
 - [Bscscan](https://bscscan.com/) - BscScan is a Block Explorer and Analytics Platform for BNB Smart Chain.
 - [Blockscout](https://www.blockscout.com/) - Multichain block explorer.
 - [Etherscan](https://etherscan.io/) - Etherscan is the leading Web3 Blockchain Explorer Platform for Search, API and Analytics.
@@ -43,8 +38,6 @@ A malicious or dodgy smart contract is a self-executing piece of code on a block
 
 ### Crawler
 - [ChainWalker](https://github.com/0xsha/ChainWalker) - ChainWalker is a smart contract scraper which uses RCP/IPC calls to extract the information. A small tool that can help us find contracts, extract the EVM code, and disassemble the opcodes. It allows us to select specific blocks or even specific contract balances.
-- 
-- 
 
 ### My Other Awesome Lists
 
