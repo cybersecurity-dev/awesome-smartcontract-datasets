@@ -27,8 +27,8 @@ A malicious or dodgy smart contract is a self-executing piece of code on a block
 - 
 
 ## Online Blockchain Networks
+- [Bscscan](https://bscscan.com/) - BscScan is a Block Explorer and Analytics Platform for BNB Smart Chain.
 - [Etherscan](https://etherscan.io/) - Etherscan is the leading Web3 Blockchain Explorer Platform for Search, API and Analytics
-- []()
   
 ### Security Analysis Tool
 - [Mythril](https://github.com/ConsenSysDiligence/mythril) - Mythril is a symbolic-execution-based security analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
