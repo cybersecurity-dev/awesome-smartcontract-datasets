@@ -12,7 +12,7 @@
 - [Malicious-based Dataset](#malicious-based-dataset)
 - [Vulnerability-based Dataset](#vulnerability-based-dataset)
 - [Online Blockchain Networks](#online-blockchain-networks)
-- [Security Analysis Tool](#security-analysis-tool)
+- [Security Analysis Tool](#security-analysis-tools)
 - [Crawler](#crawler)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
@@ -36,16 +36,11 @@ A vulnerable smart contract contains flaws or errors in its code or design that 
 - [Fuse](https://explorer.fuse.io/) - Blockchain explorer for Ethereum Networks.
 - [Snowtrace Multichain Explorer](https://snowtrace.io/) - Snowtrace is a Block Explorer and Analytics Platform for avalanche.
   
-### Security Analysis Tool
-- [Mythril](https://github.com/ConsenSysDiligence/mythril) - Mythril is a symbolic-execution-based security analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
-- [Slither](https://github.com/crytic/slither) - Slither is a Solidity & Vyper static analysis framework written in Python3. It runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses. Slither enables developers to find vulnerabilities, enhance their code comprehension, and quickly prototype custom analyses.
-- [SmartCheck](https://github.com/smartdec/smartcheck) - SmartCheck – a static analysis tool that detects vulnerabilities and bugs in Solidity programs (Ethereum-based smart contracts).
-- [Osiris](https://github.com/christoftorres/Osiris) - An analysis tool to detect integer bugs in Ethereum smart contracts.
-- [Oyente](https://github.com/enzymefinance/oyente) (_This project is not maintained anymore_) - An Analysis Tool for Smart Contracts
-
+### Security Analysis Tools
+You can access the security analysis tool [here](https://github.com/cybersecurity-dev/SmartContract-Toolkit/blob/main/README.md#security-analysis-tools-for-sc).
 
 ### Crawler
-- [ChainWalker](https://github.com/0xsha/ChainWalker) - ChainWalker is a smart contract scraper which uses RCP/IPC calls to extract the information. A small tool that can help us find contracts, extract the EVM code, and disassemble the opcodes. It allows us to select specific blocks or even specific contract balances.
+You can access the smart contract crawler [here](https://github.com/cybersecurity-dev/SmartContract-Toolkit/tree/main?tab=readme-ov-file#sc-crawler)
 
 ### My Other Awesome Lists
 
