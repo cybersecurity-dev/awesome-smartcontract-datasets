@@ -27,7 +27,7 @@ A malicious or dodgy smart contract is a self-executing piece of code on a block
 ## Vulnerability-based Dataset
 A vulnerable smart contract contains flaws or errors in its code or design that can be exploited by malicious actors, leading to unintended behavior, financial losses, or unauthorized access. Unlike malicious smart contracts, which are designed with ill intent from the start, vulnerable contracts typically arise from programming mistakes, oversights in security practices, or a lack of thorough testing. Common vulnerabilities include reentrancy attacks, integer overflows/underflows, access control issues, and susceptible timestamp dependencies. Once deployed on an immutable blockchain, these flaws become permanent, making it critical for developers to rigorously audit and test contracts before deployment to mitigate potential risks and ensure the security of user funds and data.
 - [ScrawlD](https://github.com/sujeetc/ScrawlD) - A Dataset of Real World Ethereum Smart Contracts Labelled with Vulnerabilities
-
+- [Slither Audited Smart Contracts](https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts) - This dataset contains source code and deployed bytecode for Solidity Smart Contracts that have been verified on Etherscan.io, along with a classification of their vulnerabilities according to the Slither static analysis framework.
  
 ### Online Blockchain Networks
 - [Bscscan](https://bscscan.com/) - BscScan is a Block Explorer and Analytics Platform for BNB Smart Chain.
