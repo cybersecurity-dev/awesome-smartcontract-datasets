@@ -37,6 +37,17 @@ A vulnerable smart contract contains flaws or errors in its code or design that 
 - [Fuse](https://explorer.fuse.io/) - Blockchain explorer for Ethereum Networks.
 - [Snowtrace Multichain Explorer](https://snowtrace.io/) - Snowtrace is a Block Explorer and Analytics Platform for avalanche.
   
+##
+
+### Other Awesome Smart Contract
+- [Awesome Malicious Smart Contract](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract)
+- [Awesome Smart Contract](https://github.com/cybersecurity-dev/awesome-smart-contract)
+- [Awesome Smart Contract Feature Extractor](https://github.com/cybersecurity-dev/awesome-smartcontract-feature-extractor)
+- [Awesome Vulnerable Smart Contract](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract)
+- Scientific Research
+    - [Awesome Malicious Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract-scientific-research)
+    - [Awesome Vulnerable Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract-scientific-research)
+
 ### Security Analysis Tools
 You can access the security analysis tool [here](https://github.com/cybersecurity-dev/SmartContract-Toolkit/blob/main/README.md#security-analysis-tools-for-sc).
 
